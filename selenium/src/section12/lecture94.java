@@ -14,9 +14,10 @@ public class lecture94 {
 		System.setProperty("webdriver.chrome.driver", "/Users/prernabhandari/Downloads/chromedriver");
 		WebDriver driver = new ChromeDriver(options);
 		driver.get("https://www.path2usa.com/travel-companions");
-		
+		System.out.println("Hello world");
 		
 		
 	}
 
 }
+ 
