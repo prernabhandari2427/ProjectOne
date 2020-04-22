@@ -14,10 +14,10 @@ public class lecture94 {
 		System.setProperty("webdriver.chrome.driver", "/Users/prernabhandari/Downloads/chromedriver");
 		WebDriver driver = new ChromeDriver(options);
 		driver.get("https://www.path2usa.com/travel-companions");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Adding new code here");
-		System.out.println("Adding new code here 22");
+<<<<<<< HEAD
+	
+=======
+>>>>>>> test
 		
 		
 	}
