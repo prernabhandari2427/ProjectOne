@@ -18,7 +18,7 @@ public class lecture94 {
 		System.out.println("Hello world");
 		System.out.println("Adding new code here");
 		System.out.println("Adding new code here 22");
-		System.out.println("This was added in master but not in test");
+		
 		
 	}
 
