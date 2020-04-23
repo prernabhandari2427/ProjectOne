@@ -47,7 +47,7 @@ public  void setTo(WebDriver driver) {
 		e.printStackTrace();
 	}
 
-	WebElement peElement = driver.findElement(By.xpath("//div[@id='ajax_listOfOptions']"));
+	WebElement pelement = driver.findElement(By.xpath("//div[@id='ajax_listOfOptions']"));
 	driver.findElement(By.xpath("(//div[contains(@id,'New York')])[1]")).click();
 	
 	}
