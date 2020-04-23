@@ -29,7 +29,7 @@ public class lecture94 {
 		sp.setTo(driver);
 		driver.findElement(By.xpath("//button[@class='btn btn-primary']")).click();
 		if(driver.findElement(By.xpath("//div[@class='col-sm-12']//p")).getText().equals("No listing found")) {
-			System.out.println("no listing , test case pass");
+			System.out.println("no listing , test case pass");// no listing found case
 		}
 	
 	}
